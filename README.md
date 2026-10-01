@@ -1,5 +1,15 @@
 # Actividad 1: Exploración y comparación de algoritmos de agrupamiento
 
+<!-- academic-catalog:start -->
+**UNIR · Máster en Inteligencia Artificial · Aprendizaje automático no supervisado**
+
+Análisis de datos de sensores de maquinaria mediante K-means, clustering jerárquico y DBSCAN, con evaluación de los grupos obtenidos.
+
+**Tecnologías:** Python, scikit-learn, clustering.
+
+[Ver todos mis proyectos académicos](https://github.com/cabamarcos/academic-projects)
+<!-- academic-catalog:end -->
+
 ## Objetivos
 
 Mediante este trabajo se pretende que pongas en práctica la aplicación de los **algoritmos de agrupamiento (clustering)**.  
